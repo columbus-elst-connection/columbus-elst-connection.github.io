@@ -17,3 +17,14 @@
 # non photo-realistic rendering
 # context free art
 # lindenmeyer systems
+
+---
+
+# Discuss
+
+???
+
+# Mail
+# Slack
+# Gitter
+
