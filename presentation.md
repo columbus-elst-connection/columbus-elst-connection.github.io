@@ -28,3 +28,20 @@
 # Slack
 # Gitter
 
+---
+
+# Prototype
+
+???
+
+# Get to know explore design space without committing
+# Find resources
+# Learn
+
+---
+
+# Pair programming
+
+???
+
+# How?
