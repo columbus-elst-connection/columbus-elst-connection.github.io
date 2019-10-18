@@ -40,8 +40,40 @@
 
 ---
 
-# Pair programming
+# Workshop
 
 ???
 
-# How?
+# Create material, so you are not the bottleneck
+# Find the minimal interesting idea
+# Allow for extensions
+
+---
+
+# Meetup
+
+???
+
+# Have a face to face before the conference
+# Smooth out any wrinkles
+
+---
+
+# Test
+
+???
+
+# Test on your own machine
+# Test on windows machine
+
+---
+
+# Conference
+
+???
+
+# Have fun
+
+---
+
+# What workshop are you creating?
